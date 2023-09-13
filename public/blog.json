@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover":"https://i.ibb.co/ctL0yHm/image.png",
+        "title": "The Art of Programming",
+        "author": "John Doe",
+        "author_image": "https://i.ibb.co/qRX9TQD/image.png",
+        "posted_date": "2023-09-13",
+        "reading_time": 10,
+        "hashtag": ["programming", "coding", "software"]
+    },
+    {
+        "id": 2,
+        "cover":"https://i.ibb.co/ctL0yHm/image.png",
+        "title": "Exploring Space: A Journey Beyond Earth",
+        "author": "Jane Smith",
+        "author_image": "https://i.ibb.co/qRX9TQD/image.png",
+        "posted_date": "2023-09-12",
+        "reading_time": 15,
+        "hashtag": ["space", "exploration", "science"]
+    },
+    {
+        "id": 3,
+        "cover":"https://i.ibb.co/ctL0yHm/image.png",
+        "title": "Healthy Eating Habits",
+        "author": "Alice Johnson",
+        "author_image": "https://i.ibb.co/qRX9TQD/image.png",
+        "posted_date": "2023-09-11",
+        "reading_time": 8,
+        "hashtag": ["health", "nutrition", "diet"]
+    },
+    {
+        "id": 4,
+        "cover":"https://i.ibb.co/ctL0yHm/image.png",
+        "title": "Travel Adventures in Europe",
+        "author": "Mark Wilson",
+        "author_image": "https://i.ibb.co/qRX9TQD/image.png",
+        "posted_date": "2023-09-10",
+        "reading_time": 20,
+        "hashtag": ["travel", "adventure", "europe"]
+    },
+    {
+        "id": 5,
+        "cover":"https://i.ibb.co/ctL0yHm/image.png",
+        "title": "The World of Art: From Classic to Contemporary",
+        "author": "Emily Turner",
+        "author_image": "https://i.ibb.co/qRX9TQD/image.png",
+        "posted_date": "2023-09-09",
+        "reading_time": 12,
+        "hashtag": ["art", "painting", "culture"]
+    }
+]
